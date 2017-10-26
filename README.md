@@ -1,7 +1,7 @@
 tests-mellanox
 ==============
 
-### Mellanox Vendor Tests for OpenSHMEM API
+#### Mellanox Vendor Tests for OpenSHMEM API
 
 * Download and Install HPCx package with OpenSHMEM framework from http://bgate.mellanox.com/products/hpcx/
 * Check http://bgate.mellanox.com/products/hpcx/README.txt for instructions
